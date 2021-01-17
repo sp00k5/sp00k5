@@ -3,9 +3,9 @@
 </div>
 
 <p align='center'> 
-  <a href="https://twitter.com/trisiteltd"><img height="30" src="http://i.imgur.com/wWzX9uB.png"></a>
+  <a href="https://twitter.com/trisiteltd"><img height="25" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" </a>
   <a href="https://www.trioffline.com/"><img height="30" src="https://www.trioffline.com/img/LogoWeb.png"></a>
-  <a href="https://www.linkedin.com/in/matthew-halucha/"><img height="30" src="https://image.flaticon.com/icons/png/512/61/61109.png"></a>
+  <a href="https://www.linkedin.com/in/matthew-halucha/"><img height="30" src="https://gbiomed.kuleuven.be/english/research/50000715/50000716/ungap/Pictures_and_Logos_UNGAP_website/social-media-logos/linkedin-logo/image"></a>
 
 ### About User
 - Interested in offensive cyber security and software development 
