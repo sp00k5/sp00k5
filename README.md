@@ -14,6 +14,11 @@
 ### Download some wallpapers I made [here](https://www.trioffline.com/) 
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" aria-label="Link to create your own github stats image"><img alt="CR3A7OR's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR3A7OR&theme=dark&langs_count=10&hide=sourcepawn&layout=compact&hide_border=true&card_width=445&bg_color=0d1117" /></a></p>
+
+<div align="center">
+ <p> オフライン </p>
+ <p> ᴼᶠᶠᴸᴵᴺᴱ </p>
+</div>
 <!--
 **CR3A7OR/CR3A7OR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
