@@ -3,7 +3,6 @@
 </div>
 
 <p align='center'> 
-  <a href="https://twitter.com/trisiteltd"><img height="25" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" </a>
   <a href="https://www.portfolio.trioffline.com/"><img height="30" src="https://www.trioffline.com/img/LogoWeb.png"></a>
 </p>
     
