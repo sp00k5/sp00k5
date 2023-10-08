@@ -3,7 +3,7 @@
 </div>
 
 <p align='center'> 
-  <a href="https://www.portfolio.trioffline.com/"><img height="30" src="https://www.trioffline.com/img/LogoWeb.png"></a>
+  <a href="https://portfolio.trioffline.com/"><img height="30" src="https://www.trioffline.com/img/LogoWeb.png"></a>
 </p>
     
 Hi, I'm ![Static Badge](https://img.shields.io/badge/CR3AT0R-5865f2?style=flat&logo=discord&logoColor=white&labelColor=5865f2&color=5865f2) a graduate in Computer Science
