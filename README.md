@@ -14,7 +14,7 @@ I code projects in my free time, you might find some here, if you used any feel 
 
 ##### *Check out some of my [Graphic Design Work](https://www.trioffline.com/), feel free to support me through freelance bringing your ideas alive*
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" aria-label="Link to create your own github stats image"><img alt="CR3A7OR's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR3A7OR&theme=dark&langs_count=10&hide=sourcepawn&layout=compact&hide_border=true&card_width=445&bg_color=0d1117" /></a></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" aria-label="Link to create your own github stats image"><img alt="sp00k5's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp00k5&theme=dark&langs_count=10&hide=sourcepawn&layout=compact&hide_border=true&card_width=445&bg_color=0d1117" /></a></p>
 
 <div align="center">
  <p> オフライン </p>
